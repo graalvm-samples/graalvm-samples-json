@@ -1,5 +1,5 @@
 # 1、项目介绍
-本项目是一个spring boot web的集成后端项目，主要是验证集成GraaLVM。
+本项目是一个spring boot json的集成后端项目，主要是验证集成GraaLVM。
 > spring boot
 >
 > https://docs.spring.io/spring-boot/docs/3.2.0/reference/htmlsingle/#native-image
